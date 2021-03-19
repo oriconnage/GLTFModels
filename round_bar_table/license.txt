@@ -1,0 +1,11 @@
+Model Information:
+* title:	Round Bar Table
+* source:	https://sketchfab.com/3d-models/round-bar-table-c1e67b934e744186839ef06fbccb8f11
+* author:	TabbieCat (https://sketchfab.com/TabbieCat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Round Bar Table" (https://sketchfab.com/3d-models/round-bar-table-c1e67b934e744186839ef06fbccb8f11) by TabbieCat (https://sketchfab.com/TabbieCat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
